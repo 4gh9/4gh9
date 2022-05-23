@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @4gh9
+- 👀 I’m interested in many coding languages.
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on a multitool created in python.
+- 📫 How to reach me.. uy#6433 on discord.
