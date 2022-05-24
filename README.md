@@ -6,4 +6,4 @@
 
 
 
-<a href="https://Cheataway.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
+<a href=""target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
