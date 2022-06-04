@@ -1,4 +1,4 @@
-<img src="[https://c.tenor.com/lke_O1TgxVIAAAAM/grunge-aesthetic.gif](https://media0.giphy.com/media/bqshX1DYxH78uSvD19/giphy.gif?cid=790b76119939777600b7f8b59ed4118367112fda7d783501&rid=giphy.gif&ct=g)"
+<img src="https://media0.giphy.com/media/bqshX1DYxH78uSvD19/giphy.gif?cid=790b76119939777600b7f8b59ed4118367112fda7d783501&rid=giphy.gif&ct=g"
         
      
    <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
