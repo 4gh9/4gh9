@@ -1,4 +1,4 @@
-   <img src="https://tenor.com/view/gif-25861603"
+   <img src="https://media.discordapp.net/attachments/980846760379445328/982688239104163840/epik.gif"/></a>
         
      
    <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
