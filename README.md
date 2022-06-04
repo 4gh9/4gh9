@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/bqshX1DYxH78uSvD19/giphy.gif?cid=790b76119939777600b7f8b59ed4118367112fda7d783501&rid=giphy.gif&ct=g"
+   <img src="https://user-images.githubusercontent.com/103708683/172017136-8df51951-8225-40cd-bd67-1d2cb6699510.png"
         
      
    <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
