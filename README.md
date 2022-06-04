@@ -1,4 +1,4 @@
-   <img src="https://user-images.githubusercontent.com/103708683/172017136-8df51951-8225-40cd-bd67-1d2cb6699510.png"
+   <img src="https://tenor.com/view/gif-25861603"
         
      
    <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
