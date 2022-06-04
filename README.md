@@ -1,12 +1,16 @@
-<a href="hi.com" target="_blank"> <img src="https://c.tenor.com/lke_O1TgxVIAAAAM/grunge-aesthetic.gif" alt="4gh9"/></a>
+<a href="hi.com" target="_blank"> <img src="[https://c.tenor.com/lke_O1TgxVIAAAAM/grunge-aesthetic.gif](https://media0.giphy.com/media/bqshX1DYxH78uSvD19/giphy.gif?cid=790b76119939777600b7f8b59ed4118367112fda7d783501&rid=giphy.gif&ct=g)" alt="4gh9"/></a>
         
      
    <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
-         
-         
-         
- 
 
+
+
+│──────────────          
+├── Languages
+│   ├── lua
+│   ├── Python
+│   └── C#
+│──────────────
 
 
 
@@ -17,6 +21,3 @@ Hello skid, i know you are dumb kid and you can't learn to code yourself but its
 We all started by struggling but with real passion, and a real desire we can only progress so instead of stealing people's scripts, analyze and create your own
 
 
-
-
- </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4gh9&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="4gh9" /> </p>
