@@ -31,3 +31,6 @@ We all started by struggling but with real passion, and a real desire we can onl
 
 
    <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
+   
+   
+   <img src="https://komarev.com/ghpvc/?username=4gh9&style=for-the-badge"/></a>
