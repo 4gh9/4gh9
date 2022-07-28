@@ -34,5 +34,3 @@ We all started by struggling but with real passion, and a real desire we can onl
    
    
    <img src="https://komarev.com/ghpvc/?username=4gh9&style=for-the-badge"/></a>
-   
-   src="https://open.spotify.com/embed/playlist/5Z4qlsrwUYk0anw0bHYHTE?
