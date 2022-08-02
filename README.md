@@ -34,3 +34,5 @@ We all started by struggling but with real passion, and a real desire we can onl
    
    
    <img src="https://komarev.com/ghpvc/?username=4gh9&style=for-the-badge"/></a>
+   
+   [![4gh9's GitHub stats](https://github-readme-stats.vercel.app/api?username=4gh9)](https://github.com/anuraghazra/github-readme-stats)
