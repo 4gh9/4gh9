@@ -1,6 +1,3 @@
-   <img src="https://i.imgur.com/A7gYrki.png"/>
-   
-   
    
    <img src="https://media.discordapp.net/attachments/980846760379445328/982688239104163840/epik.gif"/>
         
