@@ -26,6 +26,9 @@
 
 
 
+**Latest project [Blue Screen Of Death](https://github.com/4gh9/Blue-Screen-Of-Death)**
+
+
 # MESSAGE TO SKIDS
 
 Hello skid, i know you are dumb kid and you can't learn to code yourself but its ok one day (or never) you will learn to use your brain and not how to use `copy/paste` like a pro
