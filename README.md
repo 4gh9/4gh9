@@ -26,7 +26,7 @@
 
  ---------- 
 
-**Latest Project [Blue Screen Of Death](https://github.com/4gh9/Blue-Screen-Of-Death)**
+**Latest Project : [Blue Screen Of Death](https://github.com/4gh9/Blue-Screen-Of-Death)**
 
  
  ---------- 
