@@ -21,12 +21,14 @@
 
 │──────────────
 
-
-   <img src="https://media.discordapp.net/attachments/981047324811857940/982692143829221456/ezgif.com-gif-maker.gif"/></a>    
-
+<img src="https://media.discordapp.net/attachments/981047324811857940/982692143829221456/ezgif.com-gif-maker.gif"/></a>    
 
 
-**Latest project [Blue Screen Of Death](https://github.com/4gh9/Blue-Screen-Of-Death)**
+
+
+**Latest Project** [Blue Screen Of Death](https://github.com/4gh9/Blue-Screen-Of-Death)**
+
+
 
 
 # MESSAGE TO SKIDS
