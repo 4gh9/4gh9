@@ -1,5 +1,5 @@
    
-   <img src="https://media.discordapp.net/attachments/980846760379445328/982688239104163840/epik.gif"/>
+   <img src="https://media.discordapp.net/attachments/980846760379445328/982688239104163840/epik.gif"/></a>
         
 
  ---------- 
@@ -29,7 +29,9 @@
 
 **Latest Project [Blue Screen Of Death](https://github.com/4gh9/Blue-Screen-Of-Death)**
 
+ 
  ---------- 
+
 
 # MESSAGE TO SKIDS
 
