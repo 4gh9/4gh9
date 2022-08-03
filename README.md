@@ -39,14 +39,14 @@ Hello skid, i know you are dumb kid and you can't learn to code yourself but its
 
 We all started by struggling but with real passion, and a real desire we can only progress so instead of stealing people's scripts, analyze and create your own
 
-    ---------- 
+ ---------- 
 
    <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
    
-    ---------- 
+ ---------- 
    
    <img src="https://komarev.com/ghpvc/?username=4gh9&style=for-the-badge"/></a>
    
-    ---------- 
+ ---------- 
    
    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4gh9)](https://github.com/anuraghazra/github-readme-stats)
