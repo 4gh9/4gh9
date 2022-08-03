@@ -2,7 +2,6 @@
    <img src="https://media.discordapp.net/attachments/980846760379445328/982688239104163840/epik.gif"/></a>
         
 
- ---------- 
 
 
 │──────────────          
@@ -50,3 +49,5 @@ We all started by struggling but with real passion, and a real desire we can onl
  ---------- 
    
    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4gh9)](https://github.com/anuraghazra/github-readme-stats)
+
+ ---------- 
