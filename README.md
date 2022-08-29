@@ -12,8 +12,6 @@
 
 │   ├── Python
 
-│   ├── JavaScript
-
 │   ├── Vbs
 
 │   └── C#
